@@ -29,6 +29,35 @@ MCQ-Generator/
 
 ---
 
+## 🎯 How to Use
+
+1. **Upload Your Content**: Select a PDF or text file containing the material you want to generate questions from.
+2. **Customize Your Quiz**: Set the number of MCQs, subject, and difficulty level.
+3. **Generate MCQs**: Click the "Create MCQs" button to generate your quiz.
+4. **Download the Results**: After generating the quiz, you can download the MCQs as a CSV file.
+
+---
+
+## 📸 Demo
+
+1. **Main Interface**
+
+   Upload a file and customize your quiz settings.
+   ![alt text](image.png)
+
+2. **Quiz Generation**
+
+   Generate MCQs with ease and view the results.
+   ![alt text](image-1.png)
+
+3. **Download Results**
+
+   Download the generated MCQs as a CSV file.
+   ![alt text](image-2.png) 
+   ![alt text](image-3.png)
+
+git---
+
 ## 🛠️ Technologies Used
 
 - Python
