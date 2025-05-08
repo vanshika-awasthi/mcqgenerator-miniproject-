@@ -42,8 +42,3 @@ MCQ-Generator/
 
 Created by Vanshika Awasthi (https://github.com/vanshika-awasthi)
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
